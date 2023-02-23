@@ -22,5 +22,5 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [solution URL](https://github.com/cout05/results-summary-component-main.git)
 - Live Site URL: [live site URL](https://cout05.github.io/results-summary-component-main/)
